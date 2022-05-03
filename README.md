@@ -31,6 +31,7 @@ I used UITableView component to handle Transaction data. It used section header 
 <img width="892" alt="Screen Shot 2022-05-03 at 17 46 00" src="https://user-images.githubusercontent.com/104811042/166440818-3af05f50-9b89-46fe-84d7-5558332686d6.png">
 
 If users click on Make Transfer button, they'll be redirected to Make Transfer Page. On Make Transfer Page, it performs form input that consist of 3 elements : account number, amount and description. For account number, i used pickerview component to handle the payees data. It call getPayees function on WebServices model and put on pickerview. Here is the code.
+
 <img width="576" alt="Screen Shot 2022-05-03 at 17 56 25" src="https://user-images.githubusercontent.com/104811042/166441541-36560d49-5e40-4bde-9043-11e255b96f6c.png">
 <img width="859" alt="Screen Shot 2022-05-03 at 17 56 58" src="https://user-images.githubusercontent.com/104811042/166441561-fa44362d-adba-45f0-870b-349100667b25.png">
 
