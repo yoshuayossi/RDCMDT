@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.6.1)
+  - FontAwesome.swift (1.9.1)
+  - iProgressHUD (1.1.1)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - FontAwesome.swift
+  - iProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FontAwesome.swift
+    - iProgressHUD
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  FontAwesome.swift: 6b52cb7be66eacd28cbfaa0ca7ffd0de4a186a1d
+  iProgressHUD: caa742128253c97f2c2e1ec59e2bbe6cf689df6a
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 7fa2f5b6bf7c7ff5b0fdeedc7b3cfea8c3a2b556
+
+COCOAPODS: 1.11.2
